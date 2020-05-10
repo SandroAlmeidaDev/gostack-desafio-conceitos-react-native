@@ -15,7 +15,7 @@
 
 3 - yarn ou npm install
 
-4 - Baixe o projeto backend e adicione novos projetos: 
+4 - Baixe o projeto backend siga a documentação e adicione novos projetos: 
   - cd ..
   - git clone https://github.com/SandroAlmeidaDev/gostack-desafio-conceitos-node.git
   - cd gostack-desafio-conceitos-node
@@ -26,6 +26,8 @@
 
 ## Rodando o projeto Mobile
 1 - yarn android
+
+![demoMobile](https://user-images.githubusercontent.com/58606794/81505914-2bd9d780-92c9-11ea-91e4-26cba5b74ac4.gif)
 
 # License 
 [Sandro Almeida](https://github.com/SandroAlmeidaDev)
